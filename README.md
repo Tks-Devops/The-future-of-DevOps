@@ -91,4 +91,25 @@ The term alchemy suggests a transformation — turning challenges into opportuni
    As DevOps evolves, it will continue to be the backbone of delivering faster, secure, and reliable software in a cloud-driven world.
 
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
+<h1 align="center" >Have an idea? Let's connect:</h1>
+
+<div align="center" gap="20px">
+<a href="https://www.linkedin.com/in/tulasikumarsahu/">
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://hashnode.com/@CloudCraft-with-TK">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=white" />
+</a>
+
+<a href="https://github.com/Tks-Devops">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+<div align="center" gap="20px">
+<a href="https://www.youtube.com/@DevOpsAlchemy">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+</a>
+</div>
 <h3 align="center">Feel free to reach out for any DevOps-related queries or collaboration opportunities. Let's build amazing things together! 🚀</h3>
